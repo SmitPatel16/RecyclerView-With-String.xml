@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RecyclerViewP20</string>
+
+    <string-array name="foodItemNameArray">
+        <item>Cake</item>
+        <item>Chocalate</item>
+        <item>Cookies</item>
+        <item>Donut</item>
+        <item>Burger</item>
+        <item>Hotdog</item>
+        <item>Icecream</item>
+        <item>Jalebi</item>
+        <item>Pizza</item>
+        <item>Samosa</item>
+        <item>Sandwich</item>
+    </string-array>
+    <string-array name="foodItemOriginArray">
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+        <item>india</item>
+    </string-array>
+
+    <integer-array name="foodItemImageArray">
+        <item>@drawable/birthdaycake</item>
+        <item>@drawable/chocolate</item>
+        <item>@drawable/cookies</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/hamburger</item>
+        <item>@drawable/hotdog</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/jalebi</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/samosa</item>
+        <item>@drawable/sandwich</item>
+    </integer-array>
+
+    <!--    <integer-array name="foodItemImageArray">-->
+<!--        <item>@drawable/chocolate</item>-->
+<!--    </integer-array>-->
+</resources>
